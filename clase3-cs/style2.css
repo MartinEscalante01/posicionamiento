@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap');
+.header{
+    background:rgb(155, 31, 151);
+    position: relative;
+    height: 50%;
+}
+
+.titulo{
+    position: absolute;
+    margin: 4%;
+    left: 0px;
+    font-family:'Roboto', sans-serif;;
+}
+
+.imagen{
+    position: absolute;
+    right: 0px;
+    margin: 4%;
+}
